@@ -1,0 +1,188 @@
+Dashboard
+
+
+# HEADER
+
+Dashboard
+
+aria-label = Toggle Menu
+
+<span class="material-symbols-rounded  icon">menu</span>
+
+<span class="material-symbols-rounded  icon">grid_view</span>
+Home
+
+<span class="material-symbols-rounded  icon">folder</span>
+Projects
+
+<span class="material-symbols-rounded  icon">list</span>
+Tasks
+
+<span class="material-symbols-rounded  icon">bar_chart</span>
+Reports
+
+<span class="material-symbols-rounded  icon">settings</span>
+Settings
+
+<span class="material-symbols-rounded  icon">notifications</span>
+
+alt = Elizabeth Foster
+
+Elizabeth F
+Admin
+
+
+
+# HOME
+
+Hi Elizabeth
+
+Welcome to Dashboard!
+
+aria-label = More
+<span class="material-symbols-rounded  icon">more_horiz</span>
+
+<span class="material-symbols-rounded  icon" aria-hidden="true">edit</span>
+Edit
+
+<span class="material-symbols-rounded  icon" aria-hidden="true">cached</span>
+Refresh
+
+<span class="material-symbols-rounded  icon" aria-hidden="true">delete</span>
+Deactivate
+
+alt = Elizabeth Foster
+
+Elizabeth Foster
+Web & Graphic Designer
+
+<span class="material-symbols-rounded  icon">mail</span>
+xyz@mail.com
+
+<span class="material-symbols-rounded  icon">call</span>
++00 123-456-789
+
+Project Completion
+85%
+
+Overall Rating
+7.5
+
+<span class="material-symbols-rounded  icon">task_alt</span>
+21
+Tasks Completed
+
+<span class="material-symbols-rounded  icon">drive_file_rename_outline</span>
+21
+Tasks Inprogress
+
+Revenue
+
+$2,100
+Last Week
+
+<span class="material-symbols-rounded  icon  green">trending_up</span>
+15%
+Prev Week
+
+<span class="material-symbols-rounded icon  red">trending_down</span>
+10%
+Prev Month
+
+
+
+# PROJECTS
+
+Recent Projects
+
+View All 
+<span class="material-symbols-rounded  icon" aria-hidden="true">arrow_forward</span>
+
+<span class="material-symbols-rounded  icon" aria-hidden="true">visibility</span>
+View
+
+Delete
+
+Apr 09, 2022
+
+Shreyu - Design Updates
+
+Designing
+
+Update shreyu with modern and latest trends...
+
+Progress
+75%
+
+alt = Elizabeth Foster
+
+alt = John Foster
+
+Prompt v2.0
+
+Planning
+
+Plan new features and functionality for prompt...
+
+50%
+
+Hyper React v4.0
+
+Development
+
+60%
+
+
+
+# TASKS
+
+Tasks
+
+Draft the new contract document for sales team
+
+Today 10pm
+
+<span class="material-symbols-rounded  icon">list</span>
+3/7
+
+<span class="material-symbols-rounded  icon">comment</span>
+21
+
+High
+
+iOS App home page design
+
+Today 5pm
+
+10/11
+5
+Medium
+
+Enable analytics tracking
+
+Tomorrow 5pm
+5/11
+7
+
+Kanban board design
+
+Sep 11, 3pm
+
+0/5
+3
+Low
+
+Load More
+
+
+
+# FOOTER
+
+About
+Privacy
+Terms
+Developers
+Support
+Careers
+
+&copy; 2022 codewithsadee. All Rights Reserved
