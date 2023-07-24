@@ -21,7 +21,7 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![Dashboard Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
